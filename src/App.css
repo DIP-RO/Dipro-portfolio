@@ -1,0 +1,10 @@
+.app {
+  background-color: #0b111d;
+}
+
+.bg-blue-gradient {
+  background: linear-gradient(144.39deg,
+      #0f1829 -278.56%,
+      #192742 -78.47%,
+      #0f1829 91.61%);
+}

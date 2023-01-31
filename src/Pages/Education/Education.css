@@ -1,0 +1,18 @@
+.education-section, .qualification-section {
+    margin: 2em 0;
+  }
+  
+  .education-item, .qualification-item {
+    margin-bottom: 1em;
+  }
+  
+  .education-date, .qualification-date {
+    font-size: 0.9em;
+    color: gray;
+  }
+  
+  .education-description, .qualification-description {
+    margin-top: 0.5em;
+    font-size: 0.9em;
+  }
+  
